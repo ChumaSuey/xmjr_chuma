@@ -5,14 +5,21 @@ Map for Quake mod “Arcane Dimensions” for the Christmas Jumper Jam.
 ### Author info / Metadata
 
 Map name: 
+
 Author : Chuma
+
 Mod : Arcane Dimensions
-Name:Carol of the Krampus Castle  
+
+Name: Carol of the Krampus Castle  
+
 bsp name: xmjr_chuma
 
 Songs used:
+
 Track 127 :  The Warmth of Winter (Copyright and Royalty Free) - rossbugden.
-Track 27 : Worship the night - Karl Casey @ White Bat Audio.
+
+Track 27 : Worship the night - Karl Casey @ White Bat Audio. (Looped by DevSEb)
+
 (both tracks are royalty free)
 
 ### General Information
