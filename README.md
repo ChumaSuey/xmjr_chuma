@@ -44,6 +44,7 @@ After playing i think the Karl Casey track made this map honestly the Chumastic 
 - Makkon.
 - sze.
 - Spootnik.
+- Wintersolstice.
 - Mikolah.
 - RecycledOJ.
 - Quake Mapping Discord.
