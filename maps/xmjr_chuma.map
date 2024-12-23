@@ -17498,8 +17498,7 @@
 // entity 679
 {
 "classname" "trigger_once"
-"message" "Sorry there's no secret here or\nwhatsoever, move along!
-"
+"message" "Sorry there's no secret here or\nwhatsoever, move along!"
 // brush 0
 {
 ( -48 -1344 768 ) ( -48 -1392 896 ) ( -48 -1392 768 ) trigger [ 0 -1 0 0 ] [ -0 -0 -1 0 ] 0 1 1
