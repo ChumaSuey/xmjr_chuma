@@ -17915,6 +17915,46 @@
 }
 // entity 717
 {
+"classname" "light"
+"origin" "312 -392 -176"
+"wait" "0.8"
+"_color" "255 170 0"
+"light" "225"
+}
+// entity 718
+{
+"classname" "light"
+"origin" "680 -392 -176"
+"wait" "0.8"
+"_color" "255 170 0"
+"light" "225"
+}
+// entity 719
+{
+"classname" "light"
+"origin" "520 -520 -176"
+"wait" "0.8"
+"_color" "255 170 0"
+"light" "225"
+}
+// entity 720
+{
+"classname" "light"
+"origin" "520 -200 -176"
+"wait" "0.8"
+"_color" "255 170 0"
+"light" "225"
+}
+// entity 721
+{
+"classname" "light"
+"origin" "408 104 -176"
+"wait" "0.7"
+"_color" "255 170 0"
+"light" "225"
+}
+// entity 722
+{
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "aux - no vision"
@@ -17922,7 +17962,7 @@
 "_tb_layer_sort_index" "0"
 "_tb_layer_hidden" "1"
 }
-// entity 718
+// entity 723
 {
 "classname" "trigger_once"
 "message" "Note: There's no single elevator in the\ncastle, the boots will have to do... See\nya after the mission S.I.A (or your\nfavorite singer) out."
@@ -17937,7 +17977,7 @@
 ( -32 -1424 -880 ) ( -32 -1424 -816 ) ( -32 -1232 -816 ) trigger [ -6.123233995736766e-17 1 0 -16 ] [ 0 0 -1 48 ] 0 1 1
 }
 }
-// entity 719
+// entity 724
 {
 "classname" "trigger_ladder"
 "sounds" "1"
@@ -17952,7 +17992,7 @@
 ( 384 316 48 ) ( 384 252 48 ) ( 384 252 176 ) trigger [ 1.2246467991473532e-16 -1 0 48 ] [ 0 0 -1 32 ] 0 1 1
 }
 }
-// entity 720
+// entity 725
 {
 "classname" "trigger_once"
 "target" "tcdtrack"
@@ -17967,7 +18007,7 @@
 ( -288 -1696 0 ) ( -288 -1632 128 ) ( -288 -1632 0 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 16 ] 180 1 1
 }
 }
-// entity 721
+// entity 726
 {
 "classname" "trigger_once"
 "target" "br01"
@@ -17982,7 +18022,7 @@
 ( 80 -1820 -240 ) ( 80 -1756 -112 ) ( 80 -1756 -240 ) trigger [ 0 1 0 16 ] [ 0 0 -1 0 ] 270 1 1
 }
 }
-// entity 722
+// entity 727
 {
 "classname" "trigger_multiple"
 "message" "Grab the silver key"
@@ -17998,7 +18038,7 @@
 ( 16 512 848 ) ( 16 1040 816 ) ( 16 512 816 ) trigger [ -6.123233995736766e-17 -6.123233995736766e-17 1 -32 ] [ -6.123233995736766e-17 1 6.123233995736766e-17 0 ] 270 1 1
 }
 }
-// entity 723
+// entity 728
 {
 "classname" "trigger_once"
 "target" "ss06"
@@ -18013,7 +18053,7 @@
 ( -1088 528 368 ) ( -1088 0 208 ) ( -1088 0 368 ) trigger [ 0 -1 0 16 ] [ 0 0 -1 48 ] 0 1 1
 }
 }
-// entity 724
+// entity 729
 {
 "classname" "trigger_once"
 "target" "br06"
@@ -18028,7 +18068,7 @@
 ( -144 972 320 ) ( -144 444 160 ) ( -144 444 320 ) trigger [ 0 -1 0 -52 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 725
+// entity 730
 {
 "classname" "trigger_once"
 "target" "ss07"
@@ -18043,7 +18083,7 @@
 ( 1536 -1184 352 ) ( 1536 -1152 352 ) ( 1536 -1152 128 ) trigger [ 0 -1 0 0 ] [ 0 0 -0.9975343430785564 -16.276154 ] 0 1 1
 }
 }
-// entity 726
+// entity 731
 {
 "classname" "trigger_once"
 "target" "ammo01"
@@ -18058,7 +18098,7 @@
 ( 1536 -1204 352 ) ( 1536 -1172 352 ) ( 1536 -1172 128 ) trigger [ 0 -1 0 -20 ] [ 0 0 -0.9975343430785564 -16.276154 ] 270 1 1
 }
 }
-// entity 727
+// entity 732
 {
 "classname" "trigger_once"
 "target" "ss03"
@@ -18073,7 +18113,7 @@
 ( -848 2192 500 ) ( -848 2224 500 ) ( -848 2224 316 ) trigger [ 0 -1 0 -16 ] [ 0 0 -1 -32 ] 180 1 1
 }
 }
-// entity 728
+// entity 733
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -18083,7 +18123,7 @@
 "_tb_layer_locked" "1"
 "_tb_layer_hidden" "1"
 }
-// entity 729
+// entity 734
 {
 "classname" "trigger_once"
 "target" "tr01"
@@ -18098,7 +18138,7 @@
 ( -160 144 368 ) ( -160 672 368 ) ( -160 672 208 ) trigger [ 0 -1 0 -32 ] [ 0 0 -1 48 ] 270 1 1
 }
 }
-// entity 730
+// entity 735
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -18108,7 +18148,7 @@
 "_tb_layer_locked" "1"
 "_tb_layer_hidden" "1"
 }
-// entity 731
+// entity 736
 {
 "classname" "trigger_once"
 "target" "ss03"
@@ -18123,7 +18163,7 @@
 ( -304 1344 496 ) ( -304 816 336 ) ( -304 816 496 ) trigger [ 0 -1 0 48 ] [ 0 0 -1 16 ] 90 1 1
 }
 }
-// entity 732
+// entity 737
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -18132,7 +18172,7 @@
 "_tb_layer_sort_index" "4"
 "_tb_layer_hidden" "1"
 }
-// entity 733
+// entity 738
 {
 "classname" "trigger_once"
 "target" "tr02"
@@ -18156,7 +18196,7 @@
 ( 64 -816 295 ) ( 64 -864 128 ) ( 64 -864 295 ) trigger [ 0 -1 0 -16 ] [ 0 0 -0.9975343430785564 -0.31559753 ] 270 1 1
 }
 }
-// entity 734
+// entity 739
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -18166,7 +18206,7 @@
 "_tb_layer_hidden" "1"
 "_tb_layer_omit_from_export" "1"
 }
-// entity 735
+// entity 740
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
@@ -18176,7 +18216,7 @@
 "_tb_layer_locked" "1"
 "_tb_layer_hidden" "1"
 }
-// entity 736
+// entity 741
 {
 "classname" "misc_weather"
 "count" "6"
@@ -18193,7 +18233,7 @@
 ( 2144 -2112 352 ) ( 2144 -2112 353 ) ( 2144 -2111 352 ) *bigfog [ 0 1 0 0 ] [ 0 0 -1 0 ] 270 1 1
 }
 }
-// entity 737
+// entity 742
 {
 "classname" "misc_weather"
 "spawnflags" "8"
@@ -18210,7 +18250,7 @@
 ( -304 192 208 ) ( -304 192 209 ) ( -304 193 208 ) *bigfog [ 0 -1 0 0 ] [ 0 0 -1 0 ] 180 1 1
 }
 }
-// entity 738
+// entity 743
 {
 "classname" "misc_weather"
 "count" "6"
@@ -18227,7 +18267,7 @@
 ( 616 -1312 224 ) ( 616 -1313 224 ) ( 616 -1312 225 ) *bigfog [ -6.123233995736766e-17 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 739
+// entity 744
 {
 "classname" "misc_weather"
 "count" "6"
@@ -18244,7 +18284,7 @@
 ( 768 -1312 224 ) ( 768 -1313 224 ) ( 768 -1312 225 ) *bigfog [ -6.123233995736766e-17 1 0 0 ] [ 0 0 -1 0 ] 90 1 1
 }
 }
-// entity 740
+// entity 745
 {
 "classname" "misc_weather"
 "count" "6"
